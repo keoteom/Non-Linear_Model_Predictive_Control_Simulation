@@ -1,0 +1,5 @@
+/home/hj926217/ros2ws/src/nmpc_uav_avoidance/nmpc_solver/nmpc_uav_obstacle/target/release/build/icasadi_nmpc_uav_obstacle-8367094f2f1d7d2c/build_script_build-8367094f2f1d7d2c.d: icasadi_nmpc_uav_obstacle/build.rs
+
+/home/hj926217/ros2ws/src/nmpc_uav_avoidance/nmpc_solver/nmpc_uav_obstacle/target/release/build/icasadi_nmpc_uav_obstacle-8367094f2f1d7d2c/build_script_build-8367094f2f1d7d2c: icasadi_nmpc_uav_obstacle/build.rs
+
+icasadi_nmpc_uav_obstacle/build.rs:
